@@ -20,3 +20,4 @@
 - 🔌 **UnBaja Eletrônica**: Sistema de leitura de sensores em um mini Baja usando Arduino + ESP32
 - 🖥️ **Site de Aluguel de Carros**: Plataforma web feita com Flask, login e gerenciamento de veículos
 
+![Texto alternativo](https://www.codedex.io/images/badges/python/hello-world.png)
