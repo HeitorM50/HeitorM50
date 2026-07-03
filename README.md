@@ -1,83 +1,138 @@
-<br>
-<br>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:16417C,100:00B4D8&height=110&section=header&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=590&lines=$+booting+systems...;$+reading+sensors...;$+building+real+tech" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Heitor+Ricardo;Software+Engineering+%40+UnB+(FCTE);Embedded+%2B+Software+%2B+Product" alt="" />
 </div>
-<br>
-<br>
-<br>
 
 <p align="center">
-<strong>Software Engineering student at UnB (FCTE)</strong> focused on embedded systems, real-time data acquisition, and hardware-software integration. Currently leading electronic systems development for a Baja SAE off-road vehicle, working with microcontrollers, sensor networks, and telemetry pipelines. Strong interest in building systems that solve real-world problems, especially those involving tight integration between hardware and software. Also interested in designing scalable and efficient software-only systems. 
+  embedded systems &nbsp;·&nbsp; telemetry &nbsp;·&nbsp; fullstack &nbsp;·&nbsp; product
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=48CAE4&center=true&vCenter=true&width=600&lines=$+booting+systems...;$+reading+sensors...;$+shipping+real+tech..." />
+</div>
+
 <br>
 
-<h2 align="center">
- <strong>Linguagens e Ferramentas</strong>
-</h2>
+<p align="center">
+  <img src="./unb.png" width="96" alt="Universidade de Brasília"/>
+</p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F2C,50:16417C,100:00B4D8&height=2&section=header"
+    width="80%"
+  />
+</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=00B4D8&center=true&vCenter=true&width=600&lines=%3E+connect+with+me" />
+<br>
+<a href="https://github.com/HeitorM50">
+<img src="https://img.shields.io/badge/GITHUB-0A0F2C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/heitor-ricardo">
+<img src="https://img.shields.io/badge/LINKEDIN-16417C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:heitorm50@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,arduino&theme=dark&perline=5" />
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,flutter&theme=dark&perline=5" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark&perline=5" />
+</div>
+
+<br>
+
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CAN_Bus-000000?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/UART-555555?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CAN_Bus-0A0F2C?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/I2C-16417C?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SPI-16417C?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/UART-16417C?style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F2C,50:16417C,100:00B4D8&height=2&section=header"
+    width="80%"
+  />
+</p>
+
+<h2 align="center">⚡ What I'm Building</h2>
+
+<p align="center">
+[ SYSTEM ARCHITECTURE ] &nbsp;Baja SAE electronic platform — 4-node ECU network<br>
+[ TELEMETRY ] &nbsp;ESP32 + CAN Bus real-time communication pipeline<br>
+[ DATA ] &nbsp;RPM · Temperature · Speed · Fuel Level · GPS<br>
+[ INTERFACE ] &nbsp;Live TFT dashboard for the pilot
 </p>
 
 <br>
-<br>
 
-<h2 align="center">
- <strong>What I'm Building</strong>
-</h2>
+<h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
-[ SYSTEM ARCHITECTURE ] Baja SAE electronic platform <br>
-[ TELEMETRY ] ESP32-based communication pipeline · OBD2 <br>
-[ DATA ] RPM · Temperature · Speed · Fuel Level · GPS  <br>
-[ INTERFACE ] Real-time embedded feedback
+[ EMBEDDED ] &nbsp;Software architecture & real-time systems<br>
+[ ALGORITHMS ] &nbsp;Data structures in Rust — trees, graphs, spatial search<br>
+[ COMMUNICATION ] &nbsp;CAN Bus · Bluetooth<br>
+[ PRODUCT ] &nbsp;Backlog, requirements & user stories — building what matters
 </p>
 
-<br>
-<br>
-
-<h2 align="center">
- <strong>Current Focus</strong>
-</h2>
-
 <p align="center">
-[ EMBEDDED ] Software architecture & real-time systems <br>
-[ COMMUNICATION ] CAN Bus · Bluetooth <br>
-[ MOBILE ] Telemetry visualization <br>
-[ HARDWARE ] Prototyping, PCB & system integration
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F2C,50:16417C,100:00B4D8&height=2&section=header"
+    width="80%"
+  />
 </p>
 
-<br>
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeitorM50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeitorM50&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HeitorM50&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeitorM50&theme=tokyo-night&hide_border=true&bg_color=00000000&color=48CAE4&line=00B4D8&point=FFFFFF&area=true&area_color=16417C" width="95%" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeitorM50/HeitorM50/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeitorM50/HeitorM50/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/HeitorM50/HeitorM50/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeitorM50&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeitorM50&layout=compact&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=HeitorM50&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:16417C,100:0A0F2C&height=100&section=footer&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 
