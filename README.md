@@ -72,7 +72,7 @@
   />
 </p>
 
-<h2 align="center">⚡ What I'm Building</h2>
+<h2 align="center">What I'm Building</h2>
 
 <p align="center">
 [ SYSTEM ARCHITECTURE ] &nbsp;Baja SAE electronic platform — 4-node ECU network<br>
@@ -83,7 +83,7 @@
 
 <br>
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
 [ EMBEDDED ] &nbsp;Software architecture & real-time systems<br>
