@@ -1,0 +1,43 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgf" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060B1E"/>
+      <stop offset="1" stop-color="#0A0F2C"/>
+    </linearGradient>
+    <linearGradient id="tracef" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16417C"/>
+      <stop offset="0.5" stop-color="#00B4D8"/>
+      <stop offset="1" stop-color="#16417C"/>
+    </linearGradient>
+    <filter id="glowf" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="roundf">
+      <rect width="1200" height="120" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+  </style>
+
+  <g clip-path="url(#roundf)">
+    <rect width="1200" height="120" fill="url(#bgf)"/>
+
+    <!-- heartbeat flatline -->
+    <path d="M0 78 H520 L540 78 L552 46 L564 104 L576 78 L600 78 H1200"
+          stroke="url(#tracef)" stroke-opacity="0.45" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M0 78 H520 L540 78 L552 46 L564 104 L576 78 L600 78 H1200"
+          stroke="#48CAE4" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"
+          filter="url(#glowf)" pathLength="100" stroke-dasharray="10 90">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+
+    <text class="mono" x="600" y="36" font-size="15" letter-spacing="3"
+          text-anchor="middle" fill="#48CAE4" fill-opacity="0.85">// end of transmission</text>
+  </g>
+</svg>

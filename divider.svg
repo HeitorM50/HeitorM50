@@ -1,0 +1,20 @@
+<svg width="900" height="16" viewBox="0 0 900 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bus" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F2C"/>
+      <stop offset="0.5" stop-color="#00B4D8"/>
+      <stop offset="1" stop-color="#0A0F2C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- the bus line, terminated at both ends (120R, like a real CAN bus) -->
+  <line x1="14" y1="8" x2="886" y2="8" stroke="url(#bus)" stroke-width="2"/>
+  <rect x="6" y="4" width="8" height="8" rx="1.5" fill="#16417C"/>
+  <rect x="886" y="4" width="8" height="8" rx="1.5" fill="#16417C"/>
+
+  <!-- data packet traveling the bus -->
+  <circle cy="8" r="3.2" fill="#48CAE4">
+    <animate attributeName="cx" values="20;880" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0;1;1;1;0" keyTimes="0;0.08;0.5;0.92;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

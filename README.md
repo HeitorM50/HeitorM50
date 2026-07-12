@@ -1,12 +1,9 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:16417C,100:00B4D8&height=110&section=header&animation=fadeIn"
-    width="100%"
-  />
+  <img src="./header.svg" width="100%" alt="Heitor Ricardo — telemetry banner"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Heitor+Ricardo;Software+Engineering+%40+UnB+(FCTE);Embedded+%2B+Software+%2B+Product" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=1200&lines=Software+Engineering+%40+UnB+(FCTE);Embedded+%2B+Software+%2B+Product" alt="" />
 </div>
 
 <p align="center">
@@ -24,10 +21,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F2C,50:16417C,100:00B4D8&height=2&section=header"
-    width="80%"
-  />
+  <img src="./divider.svg" width="80%" alt=""/>
 </p>
 
 <div align="center">
@@ -66,10 +60,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F2C,50:16417C,100:00B4D8&height=2&section=header"
-    width="80%"
-  />
+  <img src="./divider.svg" width="80%" alt=""/>
 </p>
 
 <h2 align="center">What I'm Building</h2>
@@ -93,10 +84,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F2C,50:16417C,100:00B4D8&height=2&section=header"
-    width="80%"
-  />
+  <img src="./divider.svg" width="80%" alt=""/>
 </p>
 
 <div align="center">
@@ -129,10 +117,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:16417C,100:0A0F2C&height=100&section=footer&animation=fadeIn"
-    width="100%"
-  />
+  <img src="./footer.svg" width="100%" alt=""/>
 </p>
 
 
