@@ -24,28 +24,19 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Generate public statistics
-        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C
-          path: dist/stats.svg
-          core_version: "" # Use the bundled core, fixed by the action's lockfile.
-          fail_on_error: "true"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 24
+          package-manager-cache: false
 
-      - name: Generate public language statistics
-        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C
-          path: dist/top-langs.svg
-          core_version: ""
-          fail_on_error: "true"
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Test widget renderers
+        run: node --test scripts/*.test.mjs
 
-      - name: Test activity renderer
-        run: node --test scripts/generate-activity.test.mjs
+      - name: Generate public statistics and languages
+        run: node scripts/generate-stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
 
       - name: Generate daily activity graph
         run: node scripts/generate-activity.mjs
